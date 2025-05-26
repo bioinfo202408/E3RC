@@ -1,1 +1,0 @@
-computeMatrix scale-regions -R $1 -S $2 -b 900 -a 900 --regionBodyLength 900 --binSize 10 -p 10 -o $3 --outFileNameMatrix $4
